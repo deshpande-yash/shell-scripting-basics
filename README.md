@@ -2,7 +2,7 @@
 
 1.CPU usage.
 <img width="1487" height="590" alt="Screenshot 2026-03-28 144659" src="https://github.com/user-attachments/assets/dd8c7cc5-fc7e-44cb-99b1-6aab04a38d24" />
-     * List of processes consuming high cpu.
+     * List of processes consuming high cpu.(Add the following line at the end of cpu usage code.)
      <img width="1134" height="120" alt="image" src="https://github.com/user-attachments/assets/0afbc2d1-3fa3-487b-85a5-ac34a78bcc98" />
 
 
