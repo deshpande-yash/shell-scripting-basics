@@ -9,5 +9,5 @@
 3.Memory usage.
 <img width="1484" height="604" alt="image" src="https://github.com/user-attachments/assets/1c0ac722-1293-4027-a719-227ff6787366" />
 
-4.Finding file
+4.Finding file.
 <img width="1433" height="552" alt="image" src="https://github.com/user-attachments/assets/b6bf6faf-a8e5-4e9e-aca1-f1215a1d68b4" />
